@@ -27,7 +27,7 @@ body {
 .gallery img:hover {
     --_i: 1;
     z-index: 1;
-    transition: transform .2s, clip-path 3s .2s, z-index 0s;
+    transition: transform .2s, clip-path .3s .2s, z-index 0s;
 }
 
 .gallery:hover img {
